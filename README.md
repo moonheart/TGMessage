@@ -1,6 +1,6 @@
 ## TG Bot
 
-TG 消息推送机器人,基于 vercel 函数搭建的TG消息推送机器人，无需服务器。
+TG 消息推送机器人,基于 vercel 函数搭建的TG消息推送机器人，无需服务器x。
 
 ## 搭建教程
 ### Deploy to Vercel
